@@ -1,11 +1,5 @@
 #A huge collection of FREE Unity projects complete with source.#
 
-###The original list is basically a collection of SPAM links, avoid###
-
-##New list is just the GitHub pages for each project, NO SPAM!!
-
-I apologise everyone, seems the author was not as honest as I believed,  I've now reposted with the proper links to the pages as it is an extract from GitHub.
-
 Id|Name|Link|FullName|Description|Size|PushedAt|CreatedAt|UpdatedAt|Homepage|Owner_Login
 ---|---|---|---|---|---|---|---|---|---|---
 32265349|2d-basketball-unity3d|[https://github.com/skakac/2d-basketball-unity3d](https://github.com/skakac/2d-basketball-unity3d)|skakac/2d-basketball-unity3d|2D Ball Shootout Unity3d|14800|2015-03-15T16:00:06Z|2015-03-15T14:43:07Z|2015-05-20T07:01:40Z||skakac
